@@ -1,28 +1,55 @@
-# JavaScript Practice Questions
+# JavaScript Practice
 
-This repository contains beginner-friendly JavaScript practice questions.
-
-Each file focuses on one concept such as conditions, loops, arrays, strings, and array methods.
+This repository contains beginner-friendly JavaScript practice questions and mini projects to improve JavaScript fundamentals.
 
 ## Files
 
-| File Name                  | Description                                                      |
-| -------------------------- | ---------------------------------------------------------------- |
-| `greet-user.js`            | Takes a user's name and prints a greeting message.               |
-| `password-strength.js`     | Checks whether a password is strong or weak based on its length. |
-| `calculate-discount.js`    | Calculates a discount on a product price.                        |
-| `cart-total.js`            | Calculates the total price of items in a cart.                   |
-| `filter-even-numbers.js`   | Filters even numbers from an array.                              |
-| `filter-pass-students.js`  | Filters students who have passed based on their marks.           |
-| `high-salary-employees.js` | Filters employees with high salaries.                            |
-| `reverse-string.js`        | Reverses a given string.                                         |
+| File Name                  | Description                                       |
+| -------------------------- | ------------------------------------------------- |
+| `greet-user.js`            | Prints a greeting message using the user's name.  |
+| `password-strength.js`     | Checks whether a password is strong or weak.      |
+| `calculate-discount.js`    | Calculates the discount on a product price.       |
+| `cart-total.js`            | Calculates the total price of items in a cart.    |
+| `filter-even-numbers.js`   | Filters even numbers from an array.               |
+| `filter-pass-students.js`  | Filters students who passed based on their marks. |
+| `high-salary-employees.js` | Filters employees with high salaries.             |
+| `reverse-string.js`        | Reverses a given string.                          |
 
-## How to Run the Files
+## Mini Project
 
-1. Install Node.js on your computer.
-2. Open the project folder in VS Code.
-3. Open the terminal.
-4. Run any file using:
+### Theme Switcher
+
+A simple Light/Dark Mode theme switcher built with HTML, CSS, and JavaScript.
+
+**Files**
+
+* `index.html`
+* `style.css`
+* `script.js`
+
+**Features**
+
+* Light Mode
+* Dark Mode
+* Responsive design
+* DOM manipulation
+
+## Topics Practiced
+
+* Variables
+* Conditions
+* Loops
+* Functions
+* Arrays
+* Strings
+* Array Methods
+* DOM Manipulation
+* Event Handling
+* Basic Problem Solving
+
+## How to Run
+
+### JavaScript Files
 
 ```bash
 node file-name.js
@@ -34,18 +61,10 @@ Example:
 node greet-user.js
 ```
 
-## Topics Practiced
+### Theme Switcher
 
-* Variables
-* Conditional statements
-* Loops
-* Functions
-* Arrays
-* Array methods
-* `filter()`
-* String methods
-* Basic problem solving
+Open `index.html` in your browser.
 
 ## Author
 
-Bakhtawar Nizamani
+**Bakhtawar Nizamani**
